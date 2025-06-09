@@ -3,7 +3,7 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Rumah Siap Huni di Bawah 700 Juta</title>
+  <title>Butuh orang untuk membersihkan kediaman anda?</title>
   <style>
     body {
       font-family: Arial, sans-serif;
@@ -60,12 +60,12 @@
 </head>
 <body>
   <header>
-    <h1>Rumah Siap Huni di Bawah 700 Juta!</h1>
-    <p>Cari rumah impian dengan harga terjangkau?</p>
+    <h1>Hubungi kami untuk membersihkan kediaman anda</h1>
+    <p>Kami hadir membersihkan dimanapun dan kapanpun</p>
   </header>
 
   <section>
-    <p>Kami bantu temukan rumah terbaik sesuai kebutuhan dan lokasi pilihan Anda.</p>
+    <p>Kami akan bantu sesuai kebutuhan dan lokasi pilihan Anda.</p>
     <ul>
       <li>Harga mulai dari 300 jutaan</li>
       <li>Lokasi strategis & bebas banjir</li>
@@ -79,7 +79,7 @@
   </section>
 
   <footer>
-    &copy; 2025 RumahHargaTerjangkau. All rights reserved.
+    &copy; 2025 Bersihin. All rights reserved.
   </footer>
 </body>
 </html>
